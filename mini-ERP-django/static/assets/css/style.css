@@ -1,0 +1,31 @@
+/*
+
+* Override Pages default styles or create your own styles here
+
+*/
+.search-but {
+	width:100%;
+	margin-top: 4px;
+	padding: 12px 20px;
+}
+
+.newcust-but {
+	width:80%;
+	padding: 12px 20px;
+}
+
+.maintable-row-clickable{
+	cursor:pointer;
+}
+
+.maintabpanel{
+	margin-bottom: 0px;
+}
+
+#maintable_paginate{
+	margin-top: 0px !important;
+	margin-bottom: 25px;
+}
+.emptycol{
+    text-align: center;
+}
